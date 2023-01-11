@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dakyboy
+- 👋 Hi, I’m Aaron Edaku. I am software developer based in Uganda.
 - 👀 I’m interested in Mobile app development.
 - 🌱 I’m currently learning Android development using Kotlin
 - 💞️ I’m looking to collaborate on ...
